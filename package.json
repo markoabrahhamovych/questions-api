@@ -1,0 +1,17 @@
+{
+  "name": "questions-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git"
+  },
+  "author": "M.Abrahamovych",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
